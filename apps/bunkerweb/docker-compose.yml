@@ -15,6 +15,7 @@ services:
     networks:
       - bw-universe
       - bw-services
+      - tipi_main_network
 
   bw-scheduler:
     image: bunkerity/bunkerweb-scheduler:1.6.0-beta
@@ -31,6 +32,7 @@ services:
     networks:
       - bw-universe
       - bw-db
+      - tipi_main_network
 
   bw-ui:
     image: bunkerity/bunkerweb-ui:1.6.0-beta
@@ -41,6 +43,7 @@ services:
     networks:
       - bw-universe
       - bw-db
+      - tipi_main_network
 
   bw-db:
     image: mariadb:11
