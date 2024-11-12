@@ -4,15 +4,16 @@
   "available": true,
   "short_desc": "Its an awesome app!",
   "author": "me",
-  "port": 9000,
+  "port": 8686,
   "categories": ["development", "ai"],
   "description": "This app does x thing and y thing.",
-  "tipi_version": 26,
+  "tipi_version": 1,
   "version": "2024.10.1",
   "source": "https://github.com/FrFredow/my-super-app",
   "exposable": true,
   "supported_architectures": ["arm64", "amd64"],
-  "form_fields": [],
-  "created_at": 1731406592030,
-  "updated_at": 1731406592030
+  "created_at": 1731406592,
+  "updated_at": 1731406592,
+  "form_fields": []
 }
+
