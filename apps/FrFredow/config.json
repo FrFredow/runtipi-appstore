@@ -4,7 +4,7 @@
   "available": true,
   "short_desc": "Its an awesome app!",
   "author": "me",
-  "port": 8685,
+  "port": 9000,
   "categories": ["development", "ai"],
   "description": "This app does x thing and y thing.",
   "tipi_version": 26,
@@ -13,6 +13,6 @@
   "exposable": true,
   "supported_architectures": ["arm64", "amd64"],
   "form_fields": [],
-  "created_at": 1691943801422,
-  "updated_at": 1730917760000
+  "created_at": 1731406592030,
+  "updated_at": 1731406592030
 }
