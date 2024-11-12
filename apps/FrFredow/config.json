@@ -7,12 +7,12 @@
   "port": 8685,
   "categories": ["development", "ai"],
   "description": "This app does x thing and y thing.",
-  "tipi_version": 3,
-  "version": "v3.6.4",
+  "tipi_version": 26,
+  "version": "2024.10.1",
   "source": "https://github.com/FrFredow/my-super-app",
   "exposable": true,
   "supported_architectures": ["arm64", "amd64"],
   "form_fields": [],
-  "created_at": 1724134338800,
-  "updated_at": 1724134338800
+  "created_at": 1691943801422,
+  "updated_at": 1730917760000
 }
